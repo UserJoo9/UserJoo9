@@ -8,7 +8,7 @@ I have been learned the CCNA, CCNP, MCSA, CCNA Security & Cyber security operati
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [JooDevo890@gmail.com](mailto:JooDevo890@gmail.com)
-* 🚀  I'm currently working on [Echo Assistant](http://https://userjoo9.github.io/Echosite/)
+* 🚀  I'm currently working on [Echo Assistant](http://userjoo9.github.io/Echosite/)
 
 ### Skills
 
