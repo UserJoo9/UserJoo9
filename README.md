@@ -6,7 +6,7 @@
 I am a **network engineer** and **software developer** based in **Egypt**, passionate about technology, innovation, and continuous learning.  
 Over the past four years, I have specialized in **networking and cybersecurity**, earning certifications in **CCNA**, **CCNP**, **MCSA**, **CCNA Security**, and **Cybersecurity Operations**.  
 
-Beyond networking, I have developed strong expertise in **software development**, **AI**, and **embedded systems**, working with a wide range of technologies including **Python**, **Java**, **C/C++**, **SQL**, **Big Data**, **Web Development**, **Arduino**, and **Microprocessors**.  
+Beyond networking, I have developed strong expertise in **software development**, and **embedded systems**, working with a wide range of technologies including **Python**, **Java**, **C/C++**, **SQL**, **Web Development**, **Arduino**, and **Microprocessors**.  
 
 I am also an active **YouTuber**, **TikToker**, and **content creator**, where I share insights, tutorials, and projects about programming, technology, and digital innovation.  
 
