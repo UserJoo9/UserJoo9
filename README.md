@@ -10,13 +10,13 @@ Beyond networking, I have developed strong expertise in **software development**
 
 I am also an active **YouTuber**, **TikToker**, and **content creator**, where I share insights, tutorials, and projects about programming, technology, and digital innovation.  
 
-Currently, I am working on **[Hydra Spoofer](https://asd.com)** — a project focused on advanced network manipulation and system-level performance enhancement.
+Currently, I am working on **[Hydra Spoofer](#)** — a project focused on advanced system-level serials manipulation.
 
 ---
 
 ### 🌍 About Me
 - 📍 Based in **Egypt**  
-- 🚀 Currently working on **[Hydra Spoofer](https://asd.com)**  
+- 🚀 Currently working on **[Hydra Spoofer](#)**  
 - 💻 Passionate about **networking, cybersecurity, and software engineering**  
 - 🎥 Creating content on **YouTube** and **TikTok** to share knowledge with the community  
 
