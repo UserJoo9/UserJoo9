@@ -16,7 +16,6 @@ Currently, I am working on **[Hydra Spoofer](#)** — a project focused on advan
 
 ### 🌍 About Me
 - 📍 Based in **Egypt**  
-- 🚀 Currently working on **[Hydra Spoofer](#)**  
 - 💻 Passionate about **networking, cybersecurity, and software engineering**  
 - 🎥 Creating content on **YouTube** and **TikTok** to share knowledge with the community  
 
