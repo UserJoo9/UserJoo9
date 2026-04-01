@@ -10,8 +10,6 @@ Beyond networking, I have developed strong expertise in **software development**
 
 I am also an active **YouTuber**, **TikToker**, and **content creator**, where I share insights, tutorials, and projects about programming, technology, and digital innovation.  
 
-Currently, I am working on **[Hydra Spoofer](#)** — a project focused on advanced system-level serials manipulation.
-
 ---
 
 ### 🌍 About Me
