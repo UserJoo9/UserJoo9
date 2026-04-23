@@ -21,14 +21,14 @@ I am also an active **YouTuber**, **TikToker**, and **content creator**, where I
 
 ### 🧠 Skills
 
-<p align="center">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://store.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin: 5px;" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin: 5px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin: 5px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="margin: 5px;" /></a>
+  <a href="https://store.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" style="margin: 5px;" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="margin: 5px;" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="margin: 5px;" /></a>
 </p>
 
 ---
