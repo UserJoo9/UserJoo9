@@ -4,11 +4,11 @@
 ---
 
 I am a **network engineer** and **software developer** based in **Egypt**, passionate about technology, innovation, and continuous learning.  
-Over the past four years, I have specialized in **networking and cybersecurity**, earning certifications in **CCNA**, **NRS1**, **MCSA**, **CCNA Security**, and **Cybersecurity Operations**.  
+Over the past four years, I have specialized in **networking and cybersecurity**.  
 
 Beyond networking, I have developed strong expertise in **software development**, and **embedded systems**, working with a wide range of technologies including **Python**, **Java**, **SQL**  and **Arduino**.  
 
-I am also an active **YouTuber**, **TikToker**, and **content creator**, where I share insights, tutorials, and projects about programming, technology, and digital innovation.  
+I am also an active **content creator**, where I share insights, tutorials, and projects about programming, technology, and digital innovation.  
 
 ---
 
@@ -38,8 +38,8 @@ I am also an active **YouTuber**, **TikToker**, and **content creator**, where I
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <a href="https://github.com/UserJoo9"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/youssef-alkhodary-36b0311b6/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/youssefalkhodary1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@youssefalkhodary"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/yalkhodary"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@yalkhodary"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/></a>
 </div>
 
 ---
