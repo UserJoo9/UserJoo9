@@ -1,9 +1,9 @@
 # Youssef Alkhodary
-### Network & Software Engineer • Tech Content Creator
+### B.Sc. ICT | Specialized in IP Networking, Cybersecurity & Python Development | Educator & Content Creator
 
 I engineer secure network infrastructures, build intelligent software, and empower the digital community. With 4+ years of expertise bridging the gap between hardware precision and software intelligence, I specialize in robust networking, cybersecurity, and embedded systems. 
 
-Beyond the architecture, I act as a digital catalyst—distilling complex tech concepts into high-impact content for thousands of innovators across YouTube and TikTok.
+Beyond the architecture, I act as a digital catalyst—distilling complex tech concepts into high-impact content for thousands of innovators across YouTube, Instagram and TikTok.
 
 📍 Based in Egypt
 
